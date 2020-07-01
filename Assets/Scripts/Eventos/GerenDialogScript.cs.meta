@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ca28195d4184464e98f269c6c68fd78
+timeCreated: 1511731875
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nomeTexto: {instanceID: 0}
+  - dialagoTexto: {instanceID: 0}
+  - teclando: {fileID: 8300000, guid: da512b46357c10340ac67716c7cabae4, type: 3}
+  - audioSource: {instanceID: 0}
+  - caixaDialago: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

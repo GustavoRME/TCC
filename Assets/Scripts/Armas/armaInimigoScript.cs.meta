@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7fb7377e41cd714cb8bcbaf44d16cc2
+timeCreated: 1502667202
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - referenceBulletSpawn: {fileID: 1116834083729506, guid: fe3a609ecaf1724438da0f804771e314,
+      type: 2}
+  - projetil: {fileID: 1387752923520506, guid: 78b305041f113994d950ce298598e8dc, type: 2}
+  - fogo: {fileID: 8300000, guid: 02fcfbc8fdfef694b800e189480a0d61, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 31eb661c3deff4349ba8540a94ef98a2
+timeCreated: 1503204894
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - referenciaSpawnProjetil: {instanceID: 0}
+  - referenciaProjetil: {instanceID: 0}
+  - fogo: {fileID: 8300000, guid: 02fcfbc8fdfef694b800e189480a0d61, type: 3}
+  - semMunicao: {fileID: 8300000, guid: 2c148a7576fd37940a31d9e32c2bc5f5, type: 3}
+  - recarregando: {fileID: 8300000, guid: 197b29a614be3634c9457fcf22357ff8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

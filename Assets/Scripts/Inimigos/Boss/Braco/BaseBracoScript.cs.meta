@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 20e72cd66d280f34585d8bddeee19e28
+timeCreated: 1511057158
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - municao: {instanceID: 0}
+  - referenciaSpawnTiro: {instanceID: 0}
+  - imgVida: {instanceID: 0}
+  - textVida: {instanceID: 0}
+  - textAlvo: {instanceID: 0}
+  - materialBranco: {fileID: 2100000, guid: 4e13907a731918e4093ed715ec6eea59, type: 2}
+  - defaultMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
